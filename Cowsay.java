@@ -1,5 +1,6 @@
 
 public class Cowsay {
+    System.out.println("Welcome to Cow simulator");
     private static void listCows(Cow[] cows) {
         System.out.print("Regular cows available: ");
 for(int i=0; i<cows.length; i++) {
